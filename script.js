@@ -1,0 +1,16 @@
+// console.log("Hello World");
+var num=10;
+console.log(num);
+console.log(typeof(num));
+num="Hello World";
+console.log(num);
+console.log(typeof(num));
+num=true;
+console.log(num);
+console.log(typeof(num));
+num=null;
+console.log(num);
+console.log(typeof(num));
+num;
+console.log(num);
+console.log(typeof(num));
